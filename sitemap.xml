@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://gemilangadventure.com/</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://gemilangadventure.com/img/hero-banner.png</image:loc>
+      <image:title>Outbound Leadership Training Malang Batu - Gemilang Adventure</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Page -->
+  <url>
+    <loc>https://gemilangadventure.com/blog.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blog Article 1 -->
+  <url>
+    <loc>https://gemilangadventure.com/panduan-lengkap-outbound-leadership-training-batu-malang.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilangadventure.com/img/hero-banner.png</image:loc>
+      <image:title>Panduan Lengkap Outbound Leadership Training di Batu Malang 2026</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 2 -->
+  <url>
+    <loc>https://gemilangadventure.com/manfaat-leadership-training-untuk-karyawan-perusahaan.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilangadventure.com/img/blog-leadership.png</image:loc>
+      <image:title>10 Manfaat Leadership Training untuk Karyawan Perusahaan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 3 -->
+  <url>
+    <loc>https://gemilangadventure.com/tips-memilih-provider-outbound-terbaik-malang-batu.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilangadventure.com/img/blog-teamwork.png</image:loc>
+      <image:title>Tips Memilih Provider Outbound Terbaik di Malang Batu</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 4 -->
+  <url>
+    <loc>https://gemilangadventure.com/aktivitas-team-building-seru-membangun-kekompakan-tim.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilangadventure.com/img/blog-motivation.png</image:loc>
+      <image:title>15 Aktivitas Team Building Seru untuk Membangun Kekompakan Tim</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 5 -->
+  <url>
+    <loc>https://gemilangadventure.com/rekomendasi-lokasi-outbound-terbaik-batu-malang.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilangadventure.com/img/blog-rafting.png</image:loc>
+      <image:title>Rekomendasi Lokasi Outbound Terbaik di Batu Malang 2026</image:title>
+    </image:image>
+  </url>
+
+</urlset>

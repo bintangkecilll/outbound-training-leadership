@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /img/
+
+Sitemap: https://gemilangadventure.com/sitemap.xml
+
+# Outbound Leadership Training Malang Batu - Gemilang Adventure
+# Website: https://gemilangadventure.com
